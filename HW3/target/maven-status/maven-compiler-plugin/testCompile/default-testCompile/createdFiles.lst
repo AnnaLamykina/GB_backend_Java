@@ -1,0 +1,8 @@
+Test_03_Update.class
+BaseDataWithoutAuth.class
+Test_02_Image.class
+BaseAuthAndData.class
+Test_01_Account.class
+Test_05_Delete.class
+Test_06_ImageWithoutAuth.class
+Test_04_Favorite.class
