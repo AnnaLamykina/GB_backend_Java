@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: Test_Product
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 4.025 s <<< FAILURE! - in Test_Product
+checkNonNegativePriceTest  Time elapsed: 0.101 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: is <false>
+     but: was <true>
+	at Test_Product.checkNonNegativePriceTest(Test_Product.java:60)
+
+checkCreationUniqueTest  Time elapsed: 0.219 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: is <false>
+     but: was <true>
+	at Test_Product.checkCreationUniqueTest(Test_Product.java:52)
+
