@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: Test_Category
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.585 s <<< FAILURE! - in Test_Category
+testThatFoodPriceAllMoreThanZero  Time elapsed: 0.282 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: a value greater than <0>
+     but: <-100> was less than <0>
+	at Test_Category.lambda$testThatFoodPriceAllMoreThanZero$1(Test_Category.java:45)
+	at Test_Category.testThatFoodPriceAllMoreThanZero(Test_Category.java:44)
+
